@@ -1,0 +1,27 @@
+{
+ "places":[
+   {
+     "lokasi": [-7.735288, 113.691585],
+     "sponsor" : "KANTOR KARESIDENAN BESUKI",
+     "foto" : "karesidenan.jpg",
+     "review" : "Ini merupakan kantor karesidenan pada jaman masa penjajahan Belanda, setelah Indonesia merdeka, bangunannya sempat menjadi hotel dan saat ini dijadikan sebagai museum, salah satu bangunannya juga dijadikan sebagai kantor Polsek"
+   },
+   {
+     "lokasi": [-7.735740, 113.690152],
+     "sponsor" : "PENDOPO BESUKI",
+     "foto" : "pendopo.JPG",
+     "review" : "Pendopo ini dulunya digunakan untuk tempat berkumpul yang masih satu lokasi dengan kantor karesidenan, saat ini digunakan sebagai pendopo SMAN 1 Besuki"
+   },
+   {
+     "lokasi": [-7.734411, 113.690202],
+     "sponsor" : "ALUN-ALUN BESUKI",
+     "foto" : "alun-alun.jpg",
+     "review" : "Lokasinya berada diseberang pendopo dan bersebelahan dengan masjid yang mana bermula dari menara pantau atau menara lonceng yang pertama kali dibangun pada masa pemerintahan Belanda sebagai sarana untuk memantau wilayah sekitar Besuki "
+   },
+   {
+     "lokasi": [-7.725914, 113.686808],
+     "sponsor" : "PELABUHAN BESUKI",
+     "foto" : "pelabuhan.jpg",
+     "review" : "Pada masa penjajahan pelabuhan ini merupakan pusat perdagangan dan perekonomian Besuki"
+   }
+]}
